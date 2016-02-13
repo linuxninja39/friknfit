@@ -1,0 +1,52 @@
+body {
+    background-color: #D4D4D4;
+}
+
+p {
+    color: #545454;
+    text-align: center;
+}
+h1 {
+    font-family: Impact;
+    color: #f03333;
+    text-align: center;
+    height: 20px;
+    weight: 120px;
+}
+
+h3{
+    font-family: Impact;
+    color: #f03333;
+    text-align: center;
+    height: 20px;
+    weight: 100px;
+
+}
+a {
+    color: #545454;
+    text-decoration: none;
+
+
+}
+
+div {
+    margin: auto;
+    text-align: center;
+    height: 20px;
+    width: 125px;
+    background-color: #7A99C5;
+    border-style: none;
+    border-width: 2px;
+    text-decoration: none;
+    vertical-align: middle;
+    border-radius: 5px;
+
+}
+
+.meganIsCute {
+    background-color: ;
+}
+
+.title {
+    color=cadetblue;
+}

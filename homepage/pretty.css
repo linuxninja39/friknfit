@@ -1,0 +1,32 @@
+body {
+    background-color: #d8d8d8;
+}
+
+h1 {
+    font-family: Impact;
+    color: crimson;
+    text-align: center;
+    height: 20px;
+    weight: 120px;
+
+}
+
+div {
+    margin: auto;
+    text-align: center;
+    height: 35px;
+    width: 100px;
+    background-color: #71a9ee;
+    border-style: none;
+    border-width: 2px;
+    border-radius: 5px;
+    border-spacing: ;
+}
+
+a {
+    font-family: Cochin;
+    color: #1f4f63
+    text-decoration: none;
+
+}
+

@@ -1,0 +1,23 @@
+h3 {
+    text-align: center;
+    color: darkmagenta;
+    font-family: Helvetica;
+}
+
+p{
+    text-align: center;
+    color: aquamarine;
+    font-family: Helvetica;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+    height: 35px;
+    width: 100px;
+    border-color: darkmagenta;
+    background-color: deeppink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+}
